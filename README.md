@@ -29,6 +29,6 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia e programação. Atualm
 
 ## 💬 Fale Comigo
 
-Meu e-amil é:devcrisbrito@gmail.com 
+Meu e-mail📨: devcrisbrito@gmail.com 
 
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
